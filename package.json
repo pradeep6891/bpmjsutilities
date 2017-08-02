@@ -1,0 +1,28 @@
+{
+  "name": "javascript-utilities",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "promise": "^7.1.1",
+    "querystring": "^0.2.0",
+    "htmlencode":"^0.0.4",
+    "array-foreach":"^1.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/naveency/javascript-utilities.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/naveency/javascript-utilities/issues"
+  },
+  "homepage": "https://github.com/naveency/javascript-utilities#readme",
+  "private": true
+}

@@ -1,0 +1,9 @@
+const instanceUtils = require('./lib/ProcessInstanceUtils');
+
+instanceUtils.getInstanceData("11284")
+.then((result) => {
+    console.log("Done");
+})
+.catch((err) => {
+    console.log("Error Occured " + err);
+})
